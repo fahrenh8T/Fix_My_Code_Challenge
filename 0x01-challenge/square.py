@@ -3,7 +3,7 @@
 
 
 class Square():
-    """ Square class."""
+    """ square class"""
     width = 0
     height = 0
 
